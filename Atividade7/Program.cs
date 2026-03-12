@@ -8,13 +8,13 @@
 
     Console.ReadLine();
 
-    Console.Write("Prova 1: ");
+    Console.Write("Nota Da Prova 1: ");
     decimal pv1 = Convert.ToDecimal(Console.ReadLine());
 
     Console.Write("Qual é o peso da Prova 1: ");
     decimal pesoPv1 = Convert.ToDecimal(Console.ReadLine());
 
-    Console.Write("Prova 2: ");
+    Console.Write("Nota da Prova 2: ");
     decimal pv2 = Convert.ToDecimal(Console.ReadLine());
 
     Console.Write("Qual é o peso da Prova 2: ");
