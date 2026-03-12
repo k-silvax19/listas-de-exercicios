@@ -17,7 +17,7 @@
     Console.Write("quantidade de combustível consumida durante a viagem (em litros): ");
     decimal ltViagem = Convert.ToDecimal(Console.ReadLine());
 
-    decimal distancia = kmInicial - kmfinal;
+    decimal distancia = kmfinal - kmInicial;
 
     decimal percurso = distancia / ltViagem;
 
