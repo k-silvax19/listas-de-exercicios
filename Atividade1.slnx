@@ -10,6 +10,7 @@
   <Project Path="Atividade12/Atividade12.csproj" />
   <Project Path="atividade13/atividade13.csproj" />
   <Project Path="atividade14/atividade14.csproj" />
+  <Project Path="Atividade15/Atividade15.csproj" />
   <Project Path="atividade4/atividade4.csproj" />
   <Project Path="atividade5/atividade5.csproj" />
   <Project Path="Atividade6/Atividade6.csproj" />
@@ -17,4 +18,5 @@
   <Project Path="Atividade8/Atividade8.csproj" />
   <Project Path="Atividade9/Atividade9.csproj" />
   <Project Path="Atividade10/Atividade10.csproj" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
 </Solution>
