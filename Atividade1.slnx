@@ -5,7 +5,6 @@
   <Folder Name="/Atividade 3/">
     <Project Path="Atividade 3/Atividade3/Atividade3.csproj" />
   </Folder>
-  <Project Path="Atividade 8/Atividade 8.csproj" />
   <Project Path="Atividade1/Atividade1.csproj" />
   <Project Path="atividade4/atividade4.csproj" />
   <Project Path="atividade5/atividade5.csproj" />
@@ -13,4 +12,5 @@
   <Project Path="Atividade7/Atividade7.csproj" />
   <Project Path="Atividade8/Atividade8.csproj" />
   <Project Path="Atividade9/Atividade9.csproj" />
+  <Project Path="Atividade10/Atividade10.csproj" />
 </Solution>
