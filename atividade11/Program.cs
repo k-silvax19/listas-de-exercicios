@@ -8,13 +8,15 @@
 
     Console.ReadLine();
 
+    Console.Write("Digite o seu nome: ");
+    string? nome = (Console.ReadLine());
+
     Console.Write("Digite o seus anos de vida: ");
     decimal anosVida = Convert.ToDecimal(Console.ReadLine());
 
     decimal resultado = anosVida * 365;
 
-    Console.WriteLine($"o resultado dos anos de vida é: {resultado}");
-
+    Console.WriteLine($"olá {nome} seus anos de vida são: {resultado}");
     Console.ReadLine();
 
     Console.Write("DESEJA CONTINUAR? s/N ");
